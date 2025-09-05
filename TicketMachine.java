@@ -80,7 +80,7 @@ public class TicketMachine
             balance = balance - price;
         }
         else {
-            System.out.printf("You must insert at least %d more cents   .%n",
+            System.out.printf("You must insert at least %d more cents.%n",
                               price - balance);
         }
     }
