@@ -1,15 +1,7 @@
-Project: better-ticket-machine
-Authors: David Barnes and Michael Kölling
+Answering Lab Questions 
 
-This project is part of the material for the book
-
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
-   Pearson Education
-
-It is discussed in chapter 2.
-
-Purpose of project: To illustrate conditional statements.
-How to start this project: Create one or more TicketMachine objects.
-
+47. If there is an error inserting money then the balance will not change. I believe if you insert 0 money that the balance will remain to what
+    is was before. You cant instert 0 money it would have to be a positive number.
+48. Now you can inster 0 money which will not change the balance. I was right.  
+50. 
+51.  In the better ticket system when you dont have enough money inserted it will reply with a text but with the naive ticket machine it would let you even when you didnt have enough money.
